@@ -6,7 +6,14 @@ Install docker on your System
 
 Then download the Dockerfile to your path (for exaple /home/pi/fire_tv_server/)
 
-that cd into the dir -> /home/pi/fire_tv_server/Dockerfile
+than 
+
+cd into the dir -> /home/pi/fire_tv_server/Dockerfile
+
+than
+
+edit the Dockerfile -> change "IP_FROM_FIRE_TV" to your FireTV-IP Adress -> for example 192.168.1.44
+
 
 // create the image from the Dockerfile
 #sudo docker build -t "firetvserver" .
