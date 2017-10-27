@@ -9,7 +9,6 @@
 // create the image from the Dockerfile
 4.) #sudo docker build -t "firetvserver" .
 
-
 5.) Copy the firetvconfig.yaml in the same dir where the Dockerfile is:
 /home/pi/fire_tv_server/firetvconfig.yaml
 
