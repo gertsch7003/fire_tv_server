@@ -1,0 +1,5 @@
+devices:
+  Schlafzimmer:
+    host: 192.168.1.129:5555
+  Wohnzimmer:
+    host: 192.168.1.128:5555

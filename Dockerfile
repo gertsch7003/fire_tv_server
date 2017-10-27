@@ -14,5 +14,4 @@ RUN apt-get -qq update && apt-get -qq install -y \
 
 EXPOSE 5556
 
-CMD ["firetv-server", "-d", "IP_FROM_FIRE_TV:5555"] 
 
